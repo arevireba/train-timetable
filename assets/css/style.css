@@ -1,0 +1,42 @@
+#head-container {
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+
+.jumbotron {
+    background-color:cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.row {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.panel-body {
+    background-color: white;
+}
+.panel-primary {
+    background-color: gray;
+    border-color: cadetblue
+}
+
+.div-panel-heading {
+    background-color: gray
+}
+
+.panel-title {
+    background-color: gray
+}
+
+.btn-primary {
+    color: white;
+    background-color: cadetblue;
+    border-color: gray;
+}
+
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: gray;
+    border-color: cadetblue;
+}
